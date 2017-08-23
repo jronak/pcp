@@ -70,7 +70,7 @@ Currently Labels are not supported by the [pcp-archive](pcp.io/man/man5/pcp-arch
 Looking forward to working with PCP on many upcoming challenges.
 
 
-Again, I would like to express my gratitude to the Performance Co-Pilot Organisation for mentoring me and Google for giving me this opportunity.
+Again, I would like to express my gratitude to the Performance Co-Pilot Organization for mentoring me and Google for giving me this opportunity.
 
 Cheers!
 
