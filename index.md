@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="/favicons.png">
+
 # GSoC 17 - Final Report
 
 
