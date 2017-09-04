@@ -3,7 +3,7 @@
 # GSoC 17 - Final Report
 
 
-This page concludes the last three months of the Google Summer of Code experience with open source organization _Performance Co-Pilot_(PCP). The experience was amazing as it involved an incredible amount of learning and coding (obviously :P). There was a lot of emphases given to scalable design, QA, code sanity, etc. I would like to thank _Nathan Scott_, _Lukas Berk_ and _Frank Ch. Eigler_ for being such great mentors.
+This page concludes the last three months of the Google Summer of Code experience with open source organization _Performance Co-Pilot_(PCP). The experience was amazing as it involved an incredible amount of learning and coding (obviously :P). There was a lot of emphases given to scalable design, QA, code sanity, etc. I would like to thank _Nathan Scott_ and _Lukas Berk_ for for being such great mentors, also to Frank from the PCP community.
 
 ## Prometheus Metrics importer and exporter
 
@@ -43,9 +43,9 @@ PR includes pmwebd with Prometheus exporter, caching the API results in the sess
 
 PR includes QA for pmwebd Prometheus exporter.
 
-[PR 336](https://github.com/performancecopilot/pcp/pull/336): <span style="color:#f39c12">Closed (Deferred)</span>
+[PR 336](https://github.com/performancecopilot/pcp/pull/336): <span style="color:#f39c12">Merged (PCP-4)</span>
 
-PR included the addition of the labels to the existing pmwebd APIs but has been deferred till PCP has stable labels support.
+PR included the addition of the labels to the existing pmwebd APIs has been merged into PCP-4.
 
 #### PCP Python APIs
 
